@@ -1,4 +1,13 @@
-## Hi there 👋
+# Olá! Meu nome é Ana Clara!
+## Bem-vindo ao meu perifl do GitHub.
+
+### Sobre mim
+* Graduanda em Engenharia de Software 👩‍💻
+* Técnica em Análise e Desenvolvimento de Sistemas 📱
+* Técnica em Eletrônica ⚡
+* Estagiária em Ciências da Computação na Fundação SEADE 💻📉
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **AnaClaraSM/AnaClaraSM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
