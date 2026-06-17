@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2A1025,45:701044,100:F08AC0&text=Ana%20Clara%20Moreira&fontColor=FFF2F7&fontSize=42&fontAlignY=36&desc=Backend%20%7C%20Python%20%7C%20Applied%20AI&descAlignY=58&descSize=18" alt="Ana Clara Moreira - Backend, Python and Applied AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:650A45,50:C21875,100:FFB3E1&text=Ana%20Clara%20Moreira&fontColor=FFFFFF&fontSize=42&fontAlignY=36&desc=Backend%20%7C%20Python%20%7C%20Applied%20AI&descAlignY=58&descSize=18" alt="Ana Clara Moreira - Backend, Python and Applied AI" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-701044?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaclarasantosmoreira)
 [![GitHub](https://img.shields.io/badge/GitHub-AnaClaraSM-2A1025?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaClaraSM)
